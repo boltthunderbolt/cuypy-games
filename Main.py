@@ -10,8 +10,10 @@ name_of_user_input = input("Kenalan dong, tulis namamu dibawah!\n-> ")
 bentuk_goa = "|_|"
 goa_kosong = [bentuk_goa] * 4 # INI TETAP KOSONG
 goa = goa_kosong.copy() # DISINI TEMPAT CUYPY
-
 goa[cuypy_position - 1] = "|0_0|"
+
+goa_kosong = ' '.join(goa_kosong)
+goa = ' '.join(goa)
 
 print(f'''
 Hi {name_of_user_input}! Coba perhatikan goa dibawah ini
