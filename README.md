@@ -9,3 +9,9 @@ Source by Youtube __[Cuy University Semester 5](https://youtube.com/playlist?lis
 
 ### SESI 3	: Belajar Python - Function & Looping
 - Tugas : Memperbaiki posisi random karakter cuypy, setelah menggunakan while loop pada game cuypy. Sekarang User bisa memutuskan apakah ingin bermain lagi atau berhenti
+
+### SESI 4	: Belajar Python - Simple code cleaning
+- Mengaplikasikan clean code
+- Program game dan program utama dipisah ke dalam folder games, dan tools
+- Tambah fitur exit program dengan **countdown**
+- Memanfaatkan function, dan library di sesi 4 ini

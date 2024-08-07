@@ -12,7 +12,7 @@ def welcome_message():
 def exit_program():
 	global countdown
 	while countdown >= 1:
-		print(100 * "\n" + f"Program akan dihentikan dalam {countdown}",)
+		print(100 * "\n" + f"Program akan dihentikan dalam {countdown}")
 		countdown -= 1
 		sleep(1)
 	print("Program berhasil dihentikan")

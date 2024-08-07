@@ -27,6 +27,7 @@ def start():
     play_again = input("\n\nApakah ingin melanjutkan lagi? y(yes) or n(no)")
     if play_again == "n":
      Main.menu()
+     break # selalu hentikan dengan syntax break di loop program
 
 if __name__ == '__main__':
   start()
